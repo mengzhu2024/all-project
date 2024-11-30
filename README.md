@@ -35,6 +35,7 @@
 | 026 | [springboot家庭理财管理系统](https://github.com/mengzhu2024/family-finance-system)| https://github.com/mengzhu2024/family-finance-system |
 | 027 | [springboot+vue小区物业管理系统](https://github.com/mengzhu2024/property-management-system)| https://github.com/mengzhu2024/property-management-system |
 | 028 | [springboot+vue在线学习平台](https://github.com/mengzhu2024/online-study)| https://github.com/mengzhu2024/online-study |
+| 029 | [springboot医院在线服务系统](https://github.com/mengzhu2024/hospital-online-system)| https://github.com/mengzhu2024/hospital-online-system |
 ## 接毕业设计和论文
 
 ### 作者微信：mengweiyang12   (支持修改、 部署调试、 支持代做毕设)
