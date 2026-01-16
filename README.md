@@ -1,6 +1,6 @@
 ## 接毕业设计和论文
 
-### 作者微信：mengweiyang12  (支持修改、 部署调试、 支持代做毕设)
+### 作者微信：bishe688  (支持修改、 部署调试、 支持代做毕设)
 
 ### 选题+开题报告+任务书+程序定制+安装调试+论文+答辩ppt  都可以做
 
@@ -38,7 +38,7 @@
 | 029 | [springboot医院在线服务系统](https://github.com/mengzhu2024/hospital-online-system)| https://github.com/mengzhu2024/hospital-online-system |
 ## 接毕业设计和论文
 
-### 作者微信：mengweiyang12   (支持修改、 部署调试、 支持代做毕设)
+### 作者微信：bishe688   (支持修改、 部署调试、 支持代做毕设)
 
 ### 接javaweb、vue各种管理系统、商城系统、论坛网站等web系统开发
 
