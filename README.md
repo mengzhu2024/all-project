@@ -31,7 +31,7 @@
 | 022 | [springboot+vue自习室预订系统](https://github.com/mengzhu2024/studyroom-book ) | https://github.com/mengzhu2024/studyroom-book  |
 | 023 | [springboot+vue手机商城系统](https://github.com/mengzhu2024/phone-shop)                          | https://github.com/mengzhu2024/phone-shop |
 | 024 | [springboot+vue企业招聘系统](https://github.com/mengzhu2024/recruit-system)| https://github.com/mengzhu2024/recruit-system |
-| 025 | [springboot+vue电影院管理系统](https://github.com/mengzhu2024/cinema-management)| https://github.com/mengzhu2024/cinema-management |
+| 025 | [springboot+vue影院购票系统](https://github.com/mengzhu2024/movie)| https://github.com/mengzhu2024/movie |
 | 026 | [springboot家庭理财管理系统](https://github.com/mengzhu2024/family-finance-system)| https://github.com/mengzhu2024/family-finance-system |
 | 027 | [springboot+vue小区物业管理系统](https://github.com/mengzhu2024/property-management-system)| https://github.com/mengzhu2024/property-management-system |
 | 028 | [springboot+vue在线学习平台](https://github.com/mengzhu2024/online-study)| https://github.com/mengzhu2024/online-study |
