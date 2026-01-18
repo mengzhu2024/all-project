@@ -1,10 +1,8 @@
-## 接毕业设计和论文
+### 作者微信：bishe688  (支持修改、 部署调试)
 
-### 作者微信：bishe688  (支持修改、 部署调试、 支持代做毕设)
+### 选题+开题报告+任务书+程序定制+安装调试+设计文档+答辩ppt  都可以做
 
-### 选题+开题报告+任务书+程序定制+安装调试+论文+答辩ppt  都可以做
-
-## 成品项目展示
+## 精品成品项目
 | 序号  | 项目                                                                                        | gitee地址                                            |
 |-----|-------------------------------------------------------------------------------------------|---------------------------------------------------|
 | 001 | [springboot校园二手交易平台](https://github.com/mengzhu2024/second-hand-trading.git)                   | https://github.com/mengzhu2024/second-hand-trading.git |
@@ -37,9 +35,7 @@
 | 028 | [springboot+vue在线学习平台](https://github.com/mengzhu2024/online-study)| https://github.com/mengzhu2024/online-study |
 | 029 | [springboot医院在线服务系统](https://github.com/mengzhu2024/hospital-online-system)| https://github.com/mengzhu2024/hospital-online-system |
 | 030 | [springboot+vue在线旅游购票网站](https://github.com/mengzhu2024/travel)| https://github.com/mengzhu2024/travel |
-## 接毕业设计和论文
-
-### 作者微信：bishe688   (支持修改、 部署调试、 支持代做毕设)
+### 作者微信：bishe688   (支持修改、 部署调试)
 
 ### 接javaweb、vue各种管理系统、商城系统、论坛网站等web系统开发
 
