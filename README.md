@@ -37,6 +37,7 @@
 | 030 | [springboot+vue在线旅游购票网站](https://github.com/mengzhu2024/travel)| https://github.com/mengzhu2024/travel |
 | 031 | [springboot+vue图书商城系统](https://github.com/mengzhu2024/book-shop)| https://github.com/mengzhu2024/book-shop |
 | 032 | [springboot+vue人力资源管理系统](https://github.com/mengzhu2024/emp-resource)| https://github.com/mengzhu2024/emp-resource |
+| 032 | [springboot+vue在线租车平台](https://github.com/mengzhu2024/rent-car)| https://github.com/mengzhu2024/rent-car |
 ### 作者微信：bishe688   (支持修改、 部署调试)
 
 ### 接javaweb、vue各种管理系统、商城系统、论坛网站等web系统开发
