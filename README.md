@@ -40,7 +40,7 @@
 | 033 | [springboot+vue在线租车平台](https://github.com/mengzhu2024/rent-car)| https://github.com/mengzhu2024/rent-car |
 | 034 | [springboot+vue医院预约挂号系统](https://github.com/mengzhu2024/hospital-admin/)| https://github.com/mengzhu2024/hospital-admin/ |
 | 035 | [springboot+vue体育馆预订系统](https://github.com/mengzhu2024/gym-appointment/)| https://github.com/mengzhu2024/gym-appointment/ |
-
+| 036 | [springboot+vue心理健康评估系统](https://github.com/mengzhu2024/xinlipinggu/)| https://github.com/mengzhu2024/xinlipinggu/ |
 ### 作者微信：bishe688   (支持修改、 部署调试)
 
 ### 接javaweb、vue各种管理系统、商城系统、论坛网站等web系统开发
