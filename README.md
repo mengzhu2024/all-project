@@ -9,7 +9,7 @@
 | 002 | [springboot论坛网站](https://github.com/mengzhu2024/forum-website)                  | https://github.com/mengzhu2024/forum-website |
 | 003 | [springboot+vue茶叶销售系统](https://github.com/mengzhu2024/tea-mall)                            | https://github.com/mengzhu2024/tea-mall |
 | 004 | [springboot+vue鲜花商城系统](https://github.com/mengzhu2024/flower-mall)                         | https://github.com/mengzhu2024/flower-mall |
-| 005 | [springboot+vue酒店管理系统](https://github.com/mengzhu2024/hotel-manage)                        | https://github.com/mengzhu2024/hotel-manage |
+| 005 | [springboot+vue酒店预定管理系统](https://github.com/mengzhu2024/hotel-admin)                        | https://github.com/mengzhu2024/hotel-admin |
 | 006 | [springboot+vue校园新闻网站](https://github.com/mengzhu2024/school-website)                      | https://github.com/mengzhu2024/school-website |
 | 007 | [springboot+vue社区养老管理系统](https://github.com/mengzhu2024/older-manage)                      | https://github.com/mengzhu2024/older-manage |
 | 008 | [springboot+vue水果商城](https://github.com/mengzhu2024/fruit-mall)                            | https://github.com/mengzhu2024/fruit-mall |
